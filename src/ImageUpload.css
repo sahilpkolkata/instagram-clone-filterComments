@@ -1,0 +1,29 @@
+.imageupload{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.caption_input{
+    margin-top: 10px;
+    height: 50px;
+}
+.choose_image_text{
+    font-size: medium;
+    margin:5px;
+}
+.upload_button{
+    display: flex;
+    width: 100%;
+}
+.choose_button{
+    
+    align-items: center;
+}
+.imageupload__progress{
+    width: 100%;
+    margin-top: 10px;
+}
